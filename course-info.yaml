@@ -1,0 +1,12 @@
+type: marketplace
+title: JavaProgramming_IS221
+language: English
+summary: |-
+  This is an introductory Java course made for Millikin University by Professor J.S. Greenwell.
+  - The course is focused on new programmers.
+  - Course includes methods, loops, control flows, operations, and classes.
+  - It's focused on providing iterative programming with OOP.
+  - It's based on the author's 10+ years of experience in Java development.
+programming_language: Java
+content:
+  - ProceduralLessons
