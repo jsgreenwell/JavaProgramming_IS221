@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaProgramming_IS221.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaProgramming_IS221.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ProceduralLessons/DateDisplay/JavaProgramming_IS221.ProceduralLessons-DateDisplay.iml" filepath="$PROJECT_DIR$/.idea/modules/ProceduralLessons/DateDisplay/JavaProgramming_IS221.ProceduralLessons-DateDisplay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ProceduralLessons/DateDisplay/JavaProgramming_IS221.ProceduralLessons-DateDisplay.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ProceduralLessons/DateDisplay/JavaProgramming_IS221.ProceduralLessons-DateDisplay.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ProceduralLessons/DateDisplay/JavaProgramming_IS221.ProceduralLessons-DateDisplay.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ProceduralLessons/DateDisplay/JavaProgramming_IS221.ProceduralLessons-DateDisplay.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ProceduralLessons/HelloWorld/JavaProgramming_IS221.ProceduralLessons-HelloWorld.iml" filepath="$PROJECT_DIR$/.idea/modules/ProceduralLessons/HelloWorld/JavaProgramming_IS221.ProceduralLessons-HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ProceduralLessons/HelloWorld/JavaProgramming_IS221.ProceduralLessons-HelloWorld.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ProceduralLessons/HelloWorld/JavaProgramming_IS221.ProceduralLessons-HelloWorld.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ProceduralLessons/HelloWorld/JavaProgramming_IS221.ProceduralLessons-HelloWorld.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ProceduralLessons/HelloWorld/JavaProgramming_IS221.ProceduralLessons-HelloWorld.test.iml" />

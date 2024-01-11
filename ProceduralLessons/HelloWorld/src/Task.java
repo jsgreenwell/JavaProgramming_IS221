@@ -1,6 +1,6 @@
 public class Task {
     static void hello() {
-        // Remember to use print not println
+        // print or println will work for this
         // remove this line and enter your code
     }
 }
