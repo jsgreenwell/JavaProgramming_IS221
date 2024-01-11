@@ -2,7 +2,7 @@ import org.junit.*;
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 
-public class Tests {
+public class HelloTests {
   // Need to test console output so redirect stdout & stderr
   // They are bytestreams (not strings) so setup conversion vars
   private final ByteArrayOutputStream outst = new ByteArrayOutputStream();
@@ -29,7 +29,7 @@ public class Tests {
     // All that to test if the output is Hello World:
     // and a little functional programming to remove newlines
     // so print or println work.
-    Task.hello();
+    HelloTask.hello();
     Assert.assertEquals("Hello, World!", outst
             .toString()
             .replaceAll("\\R", ""));

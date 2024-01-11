@@ -6,7 +6,7 @@ import org.junit.Test;
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 
-public class Tests {
+public class DisplayTests {
   // Need to test console output so redirect stdout & stderr
   // They are bytestreams (not strings) so setup conversion vars
   private final ByteArrayOutputStream outst = new ByteArrayOutputStream();
@@ -33,7 +33,7 @@ public class Tests {
     // All that to test if the output is Hello World:
     // and a little functional programming to remove CR from CRLF
     // So it will match on all OSes
-    Task.printDates();
+    DisplayTask.printDates();
     Assert.assertEquals("USA Format: Sunday, February 4, 2024: 11:59 PM\n" +
             "UK Format: Sunday, 4 February 2024 11:59 PM\n", outst
             .toString()

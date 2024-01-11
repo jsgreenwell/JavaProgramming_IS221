@@ -5,7 +5,7 @@ environment and IDE. All you'll do
 is print "Hello, World!".
 
 Once you complete that - upload the 
-Task.java file to Moodle for grading.
+HelloTask.java file to Moodle for grading.
 You'll know if you passed or not 
 because you'll get a green checkmark 
 with Correct if it passes its tests.
